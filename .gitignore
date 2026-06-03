@@ -3,9 +3,6 @@ build/
 install/
 log/
 
-# Database files (can be generated at runtime)
-*.db
-
 # CMake cache and temp files
 CMakeCache.txt
 CMakeFiles/
