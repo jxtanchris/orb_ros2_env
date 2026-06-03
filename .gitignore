@@ -1,0 +1,26 @@
+# Build and install directories
+build/
+install/
+log/
+
+# Database files (can be generated at runtime)
+*.db
+
+# CMake cache and temp files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
